@@ -5,3 +5,4 @@
 #### [01_顺序表（SeqList）](https://github.com/sunxingyui5/Python-Data-Structure/blob/main/01_%E9%A1%BA%E5%BA%8F%E8%A1%A8.py) 
 #### [02_单链表（SingleLinkedList）](https://github.com/sunxingyui5/Python-Data-Structure/blob/main/02_%E5%8D%95%E9%93%BE%E8%A1%A8.py)
 #### [03_循环单链表（CircularSingleLinkList）](https://github.com/sunxingyui5/Python-Data-Structure/blob/main/03_%E5%BE%AA%E7%8E%AF%E5%8D%95%E9%93%BE%E8%A1%A8.py)
+#### [04_双链表（DoubleLinkedList）](https://github.com/sunxingyui5/Python-Data-Structure/blob/main/04_%E5%8F%8C%E9%93%BE%E8%A1%A8.py)
